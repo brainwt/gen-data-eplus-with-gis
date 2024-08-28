@@ -6,7 +6,7 @@ Data handing **I**nfrastructure for ***e***Plus and ***g***IS
 ```
 
 ## 사용법
-- 각 탭의 설명을 참고하여 잘 해봅니다.
+- n/a
 
 ## 배경
 - GIS 데이터는 널리사용되는 공통기반 데이터 입니다. 
