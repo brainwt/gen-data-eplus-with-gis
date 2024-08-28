@@ -43,6 +43,7 @@ Data handing **I**nfrastructure for ***e***Plus and ***g***IS
 
 ## 관련 참고자료
 - 김덕우, 김혜기 (2024). 도로명주소 건물DB 활용성 검토, 01월 24일, 한국건설기술연구원
+- https://docs.google.com/presentation/d/1_H79wQc_MlXx908cCVUAWOryKr-0owfHbpyNxUC6EVY/edit?usp=sharing
 
 ---
 # Funding
