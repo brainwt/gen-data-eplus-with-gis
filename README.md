@@ -1,5 +1,5 @@
-# DI-eg
-**D**ata handing **I**nfrastructure for ***e***Plus and ***g***IS
+# Dieg
+***D***ata handing ***i***nfrastructure for ***e***Plus and ***g***IS
 
 ```
 (240828) 드래프트 버전입니다. 24년 말, 25년 초 공식 업데이트가 있을 예정입니다.          
