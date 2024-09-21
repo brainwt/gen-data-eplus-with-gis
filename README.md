@@ -1,4 +1,4 @@
-# Dieg
+# Di-eg
 ***D***ata handing ***i***nfrastructure for ***e***Plus and ***g***IS
 
 ```
@@ -16,10 +16,10 @@
 - 이러한 이해를 바탕으로, 이질적 데이터를 자유롭게 처리할 수 있는 컴퓨터 프로그래밍 스킬 또한 필요합니다.
 - 결론적으로 진입장벽이 높고 돈도 안되기 때문에 .... 파편적, 일회성으로만 분석되기 마련입니다.
 
-- 따라서, I-eg는 GIS 데이터와 Eplus 엔진을 기반하여,
+- 따라서, Di-eg는 GIS 데이터와 Eplus 엔진을 기반하여,
 - 국내 전지역에 대해 "데이터 수집-처리-분석"의 파이프라인을 구축하여 전국DB 생성을 자동화하려는 목적을 갖고 있습니다.
 
-## I-eg로 부터 생성되는 정보
+## Di-eg로 부터 생성되는 정보
 - GIS 데이터와 EnergyPlus 엔진을 결합하여 건물(군) 단위 음영, 일사, 부하 등의 데이터를 생성합니다.
 - 현시점에서는 테이블 정의서만 수록합니다.
 
@@ -56,7 +56,7 @@ This work is supported by the Korea Agency for Infrastructure Technology Advance
 ---
    
 # Copyright
-**B**enchmarking ***Cat***egories in South Korea Copyright (c) 2023
+***D***ata handing ***i***nfrastructure for ***e***Plus and ***g***IS in South Korea Copyright (c) 2023
 Korea Institute of Civil Engineering and Building Technology, KICT (subject to receipt of any required approvals from South Korea Ministry of Land, Infrastructure and Transport, MOLIT). All rights reserved.
 
 If you have questions about your rights to use or distribute this software, please contact KICT at deukwookim@kict.re.kr.
